@@ -1,0 +1,12 @@
+name: ArrowNerf
+main: com.bukkit.vicwhiten.arrownerf.ArrowNerf
+version: 0.1
+author: VicWhiten
+description: >
+             Used by the Nations at War Server
+commands:
+  setarrowdelay:
+    description: sets how long a user must wait between fireing arrows
+    usage: |
+           /setarrowdelay 500
+           sets the arrow delay to half a second
